@@ -15,16 +15,19 @@ I will take you through a few easy steps for you to get started . We will be usi
     -https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
 
 2.Once you have conda set up 
-Create a virtual Environment 
-    On your terminal enter the following commands
+*Create a virtual Environment*
+On your terminal enter the following commands
 
 - conda create --name nameOfYourEnv
-    eg: conda create --name TA
+
+eg: conda create --name TA
 
 3.Activate Conda Environment
+   
     - conda activate nameOfYourEnv
 
 4.Install Jupyter Notebook
+    
     - conda install jupyter
     
 5.Add Conda Evironment to Jupyter
