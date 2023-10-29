@@ -34,12 +34,14 @@ Create a virtual Environment
     - python -m ipykernel install --user --name=nameOfYourEnv
 ### Install requirements
     pip3 install requirements.txt
-    (if you are getting error at this point navigate to the folder where requirements is)
+    
+(if you are getting error at this point navigate to the folder where requirements is)
 
 
 ### Run Jupyter
 Navigate to the repository before you start jupyter notebook
 type this in your termial to start jupyter notebook
+    
     - jupyter notebook
 
 
