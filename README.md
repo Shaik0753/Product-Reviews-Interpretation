@@ -18,6 +18,6 @@ I will take you through a few easy steps for you to get started . We will be usi
 Create a virtual Environment 
     On your terminal enter the following commands
 
-C
+`code` conda create -m <name of your Env> 
     
 
