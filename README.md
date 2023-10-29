@@ -11,7 +11,7 @@ I will take you through a few easy steps for you to get started . We will be usi
 1.Create a virtual environment
     for Linux and Mac 
     we will be using conda to create our virtual env 
-###### conda Set up
+*Conda Setup*
     -https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
 
 2.Once you have conda set up 
@@ -33,9 +33,18 @@ Create a virtual Environment
     - conda install -c anaconda ipykernel
     - python -m ipykernel install --user --name=nameOfYourEnv
 ### Install requirements
+    pip3 install requirements.txt
+    (if you are getting error at this point navigate to the folder where requirements is)
 
 
-    
+### Run Jupyter
+Navigate to the repository before you start jupyter notebook
+type this in your termial to start jupyter notebook
+    - jupyter notebook
+
+
+
+
     
     
     
