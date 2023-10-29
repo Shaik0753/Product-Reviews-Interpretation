@@ -11,11 +11,14 @@ I will take you through a few easy steps for you to get started . We will be usi
 1.Create a virtual environment
     for Linux and Mac 
     we will be using conda to create our virtual env 
-*Conda Setup*
+#### Conda Setup
+
     -https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
 
 2.Once you have conda set up 
-*Create a virtual Environment*
+
+**Create a virtual Environment**
+
 On your terminal enter the following commands
 
 - conda create --name nameOfYourEnv
