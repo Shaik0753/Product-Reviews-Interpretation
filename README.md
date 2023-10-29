@@ -18,11 +18,11 @@ I will take you through a few easy steps for you to get started . We will be usi
 Create a virtual Environment 
     On your terminal enter the following commands
 
-- conda create --name <name of your Env>
+- conda create --name nameOfYourEnv
     eg: conda create --name TA
 
 3.Activate Conda Environment
-    - conda activate <name of your env>
+    - conda activate nameOfYourEnv
 
 4.Install Jupyter Notebook
     - conda install jupyter
@@ -31,7 +31,7 @@ Create a virtual Environment
     enter the following one after the other
     
     - conda install -c anaconda ipykernel
-    - python -m ipykernel install --user --name=<name of your env>
+    - python -m ipykernel install --user --name=nameOfYourEnv
 ### Install requirements
 
 
