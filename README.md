@@ -21,7 +21,7 @@ I will take you through a few easy steps for you to get started . We will be usi
 
 On your terminal enter the following commands
 
-- conda create --name nameOfYourEnv
+    - conda create --name nameOfYourEnv
 
 eg: conda create --name TA
 
