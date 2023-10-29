@@ -6,5 +6,18 @@
 
 
 ## Steps to use this repo
-I will take you through a few easy steps for you to get started -
+I will take you through a few easy steps for you to get started . We will be using python to do this analysis on Jupyter notebook
 ### Setup
+1.Create a virtual environment
+    for Linux and Mac 
+    we will be using conda to create our virtual env 
+###### conda Set up
+    -https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
+
+2.Once you have conda set up 
+Create a virtual Environment 
+    On your terminal enter the following commands
+
+C
+    
+
