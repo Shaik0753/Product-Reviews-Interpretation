@@ -5,7 +5,7 @@
     To start of we have data collected from a few wesites and applied TF-IDF clustering to interpret ideas and build a story with what this has means at this point 
 
 
-## Steps to use this repo
+## Steps to use this repository
 I will take you through a few easy steps for you to get started . We will be using python to do this analysis on Jupyter notebook
 ### Setup
 1.Create a virtual environment
